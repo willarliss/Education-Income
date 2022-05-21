@@ -1,2 +1,4 @@
 # Education-Income
-Examining the relationship between education and income in the U.S.
+
+**The Relationship Between Educational Attainment and Income in the U.S.**  
+The relationship between education and income is one that has been studied for a long time from many different perspectives. Understanding the association can help to motivate policy regarding income inequality, inform decisions about personal educational attainment, and guide inference. The first step in investigating education and income is to define the criteria by which the two variables will be compared. This paper uses OLS regression to measure the relationship between median household income and and educational attainment in the United States as recorded at the county level from 2015 to 2020. It is observed that income tends to be higher in counties with high proportions of Bachelor’s degree (or more) attainment and lower in counties with high proportions of high school diploma (or less) attainment. Therefore, this paper begins with the hypothesis that educational attainment is a significant predictor of median income.  
